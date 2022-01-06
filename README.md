@@ -3,6 +3,12 @@
 # Schedule
 ![](Schedule.jpeg)
 
+# Learning Outcome
+By the end of this internship, we will be able to develop valuable skills such as:
+1. How to effectively analyze data using data visualizations
+2. How to improve the look of presentations and data visualizations based on best practices in design
+3. How to create and share compelling presentations
+
 # Data Defination
 Number of Campaigns Analyzed: 11
 Each Campaign was analyzed on the basis of the following parameters:
@@ -31,6 +37,11 @@ Each Campaign was analyzed on the basis of the following parameters:
 3. Comparing Frequency of each Campaign V/s their Reach
 
 <img src = "Images/W2 Frequency Vs Reach.png">
+
+4. Comparing Number of Clicks V/s Amount spent in INR for each Campaign
+
+<img src = "Images/W2 Click Vs Amount Spent In INR.png>
+
 
 # CONCLUSION
 1. After analyzing the dataset given to us, we can comprehend that there are several factors which we can be considered to decide whether to continue a particular campaign or not.
