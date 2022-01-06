@@ -22,15 +22,15 @@ Each Campaign was analyzed on the basis of the following parameters:
 # Analysis
 1. Comparing Impressions, Reach and Number of Unique Clicks for each Campaigns
 
-![](imgages/Picture 2.png)
+<img src = "Images/Picture 2.png">
 
 2. Comparing Average Cost Per Click (CPC) V/s Avergae Click Through Rate (CTR) for each Campaign
 
-![](Images/Picture 3.png)
+<img src = "Images/Picture 3.png">
 
 3. Comparing Frequency of each Campaign V/s their Reach
 
-![](Images/W2 Frequency Vs Reach.png)
+<img src = "Images/W2 Frequency Vs Reach.png">
 
 # CONCLUSION
 1. After analyzing the dataset given to us, we can comprehend that there are several factors which we can be considered to decide whether to continue a particular campaign or not.
