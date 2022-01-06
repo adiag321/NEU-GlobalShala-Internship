@@ -40,7 +40,7 @@ Each Campaign was analyzed on the basis of the following parameters:
 
 4. Comparing Number of Clicks V/s Amount spent in INR for each Campaign
 
-<img src = "Images/W2 Click Vs Amount Spent In INR.png>
+<img src = "Images/W2 Click Vs Amount Spent In INR.png">
 
 
 # CONCLUSION
