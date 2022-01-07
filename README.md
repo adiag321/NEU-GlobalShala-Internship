@@ -10,20 +10,22 @@ By the end of this internship, we will be able to develop valuable skills such a
 3. How to create and share compelling presentations
 
 # Data Defination
-Number of Campaigns Analyzed: 11
+Number of Campaigns Analyzed: 11 <br>
+
 Each Campaign was analyzed on the basis of the following parameters:
 1. Campaign ID and Name
-2. Target audience for the ad. Can be either “students “ or “educators”  Age
-3. Geography the ad was served in
-4. Reach-no. of people who saw the ad atleast once
-5. Impressions- no. of times the ad was on a screen
-6. Frequency- average number of times a person saw an ad
-7. Clicks
-8. Total number of unique clicks
-9. Click Through Rate –number of people who saw the add and clicked the link
-10. Amount spent in INR
-11. Cost spent per Click (CPC)
-12. Cost per Result(CPR)-total amount spent/total result or unique link clicks
+2. Target audience for the ad. Can be either “students “ or “educators” 
+3. Age
+4. Geography the ad was served in
+5. Reach-no. of people who saw the ad atleast once
+6. Impressions- no. of times the ad was on a screen
+7. Frequency- average number of times a person saw an ad
+8. Clicks
+9. Total number of unique clicks
+10. Click Through Rate –number of people who saw the add and clicked the link
+12. Amount spent in INR
+12. Cost spent per Click (CPC)
+13. Cost per Result(CPR)-total amount spent/total result or unique link clicks
 
 # Analysis
 1. Comparing Impressions, Reach and Number of Unique Clicks for each Campaigns
