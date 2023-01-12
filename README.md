@@ -1,7 +1,8 @@
 # <p align = "center">NEU GlobalShala Internship</p>
 
 # Schedule
-![](Schedule.jpeg)
+![Schedule](https://user-images.githubusercontent.com/39597515/212058537-41d700b8-1f50-41d1-aaa2-fc85594d5783.jpeg)
+
 
 # Learning Outcome
 By the end of this internship, we will be able to develop valuable skills such as:
@@ -30,20 +31,20 @@ Each Campaign was analyzed on the basis of the following parameters:
 # Analysis
 1. Comparing Impressions, Reach and Number of Unique Clicks for each Campaigns
 
-<img src = "Images/Picture 2.png">
+![Picture 2](https://user-images.githubusercontent.com/39597515/212058573-8de55c23-b589-4cde-be06-8f6b8ff4fb23.png)
+
 
 2. Comparing Average Cost Per Click (CPC) V/s Avergae Click Through Rate (CTR) for each Campaign
 
-<img src = "Images/Picture 3.png">
+![Picture 3](https://user-images.githubusercontent.com/39597515/212058608-b82555e8-7b47-40bc-aebf-313ba626f849.png)
 
 3. Comparing Frequency of each Campaign V/s their Reach
 
-<img src = "Images/W2 Frequency Vs Reach.png">
+![W2 Frequency Vs Reach](https://user-images.githubusercontent.com/39597515/212058683-6bd4f6da-6d9a-4da1-9bc5-5a86212b626e.png)
 
 4. Comparing Number of Clicks V/s Amount spent in INR for each Campaign
 
-<img src = "Images/W2 Click Vs Amount Spent In INR.png">
-
+![W2 Click Vs Amount Spent In INR](https://user-images.githubusercontent.com/39597515/212058742-b9a36f09-f710-46c4-a3ef-86bc60d0961e.png)
 
 # CONCLUSION
 1. After analyzing the dataset given to us, we can comprehend that there are several factors which we can be considered to decide whether to continue a particular campaign or not.
